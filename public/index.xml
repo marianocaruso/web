@@ -2,45 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mariano Caruso</title>
-    <link>https://marianocaruso.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Mariano Caruso</description>
     <generator>Hugo</generator>
     <language>ES</language>
     <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://marianocaruso.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Currículum Vitae</title>
-      <link>https://marianocaruso.github.io/en-cv/en-cv/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://marianocaruso.github.io/en-cv/en-cv/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Currículum Vitae</title>
-      <link>https://marianocaruso.github.io/es-cv/es-cv/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://marianocaruso.github.io/es-cv/es-cv/</guid>
-      <description></description>
-    </item>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>first blog</title>
-      <link>https://marianocaruso.github.io/blog/not-usedb1/</link>
+      <link>http://localhost:1313/blog/not-usedb1/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://marianocaruso.github.io/blog/not-usedb1/</guid>
+      <guid>http://localhost:1313/blog/not-usedb1/</guid>
       <description></description>
     </item>
     <item>
       <title>Primer acto...</title>
-      <link>https://marianocaruso.github.io/projects/1/</link>
+      <link>http://localhost:1313/projects/1/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://marianocaruso.github.io/projects/1/</guid>
+      <guid>http://localhost:1313/projects/1/</guid>
       <description></description>
     </item>
     <item>
       <title>Sobre R2</title>
-      <link>https://marianocaruso.github.io/notas/n1/</link>
+      <link>http://localhost:1313/notas/n1/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://marianocaruso.github.io/notas/n1/</guid>
+      <guid>http://localhost:1313/notas/n1/</guid>
       <description></description>
     </item>
   </channel>
