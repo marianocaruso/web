@@ -4,13 +4,6 @@
   
     
       <url>
-            <loc>https://marianocaruso.github.io/blog/</loc>
-            <lastmod>2025-01-15T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
             <loc>https://marianocaruso.github.io/</loc>
             <lastmod>2025-01-15T00:00:00+00:00</lastmod>
             <xhtml:link
@@ -28,21 +21,28 @@
   
     
       <url>
+            <loc>https://marianocaruso.github.io/about/</loc>
+            <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://marianocaruso.github.io/blog/</loc>
+            <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://marianocaruso.github.io/blog/not-usedb1/</loc>
+            <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://marianocaruso.github.io/notas/</loc>
-            <lastmod>2025-01-15T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://marianocaruso.github.io/blog/1/</loc>
-            <lastmod>2025-01-15T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://marianocaruso.github.io/notas/1/</loc>
             <lastmod>2025-01-15T00:00:00+00:00</lastmod>
           </url>
     
@@ -63,7 +63,14 @@
   
     
       <url>
-            <loc>https://marianocaruso.github.io/about/</loc>
+            <loc>https://marianocaruso.github.io/sobre_mi/</loc>
+            <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://marianocaruso.github.io/notas/n1/</loc>
             <lastmod>2025-01-15T00:00:00+00:00</lastmod>
           </url>
     

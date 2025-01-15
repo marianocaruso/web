@@ -1,14 +1,13 @@
-languageCode = "es"
-languageName = "spanish"
+languageCode = "ES"
+languageName = "español"
 languageDirection = "ltr"
 weight = 1
 
-title = "Mariano Caruso"
+#title = "Mariano Caruso"
 #copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
   dateFormat = "2 Enero 2006"
-
   # mainSections = ["section1", "section2"]
   # description = "My excellent website"
 

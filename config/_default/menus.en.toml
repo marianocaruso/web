@@ -12,20 +12,23 @@
 
 
 
+
+
 [[main]]
-  name = "notebook"
-  #pageRef = "posts"
-  url = "/notas/"
+  name = "about"
+    #pageRef = "about"
+  url = "/about/"
   weight = 10
+
+  [[main]]
+ name = "notebook"
+     #pageRef = "posts"
+ url = "/notas/"
+ weight = 20
 
 [[main]]
   name = "cv"
   pageRef = "cv-en"
-  weight = 20
-
-[[main]]
-  name = "about"
-  pageRef = "about"
   weight = 30
 
 [[main]]

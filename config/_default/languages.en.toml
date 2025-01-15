@@ -1,9 +1,9 @@
 languageCode = "en"
 languageName = "english"
 languageDirection = "ltr"
-weight = 1
+#weight = 1
 
-title = "Mariano Caruso"
+#title = "Mariano Caruso"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]

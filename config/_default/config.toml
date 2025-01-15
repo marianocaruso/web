@@ -7,6 +7,7 @@ theme = "congo"
 defaultContentLanguage = "es"
 
 enableRobotsTXT = true
+paginate = 10
 summaryLength = 0
 
 [pagination]
@@ -14,3 +15,15 @@ summaryLength = 0
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      typographer = false
+  [markup.goldmark.extensions.mathjax]
+    enable = true
+    delimiters = ["$", "$"]
+    blockDelimiters = ["$$", "$$"]

@@ -46,17 +46,17 @@ fingerprintAlgorithm = "sha256"
   showBreadcrumbs = false
   showDraftLabel = true
   showEdit = false
-  # editURL = "https://github.com/username/repo/"
+  #editURL = "https://github.com/marianocaruso/"
   editAppendPath = true
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = false
+  showTableOfContents = true
   showTaxonomies = false
   showWordCount = false
   showComments = false
-  # sharingLinks = ["facebook", "x-twitter", "mastodon", "pinterest", "reddit", "linkedin", "email", "threads", "telegram", "line", "weibo"]
+  sharingLinks = ["linkedin", "x-twitter", "reddit", "telegram", "email"]
 
 [list]
   showBreadcrumbs = false

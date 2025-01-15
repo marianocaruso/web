@@ -11,26 +11,27 @@
 # ordered by weight from lowest to highest.
 
 
-
+[[main]]
+  name = "sobre mi"
+  #pageRef = "about"
+  #pageRef = "sobre mi"
+  url = "/sobre_mi/"
+  weight = 10
 [[main]]
   name = "cuaderno"
   #pageRef = "posts"
   #pageRef = "notas"
   url = "/notas/"
-  weight = 10
+  weight = 20
+
+
 
 [[main]]
   name = "cv"
   #pageRef = "cv-en"
   pageRef = "cv-es"
-  weight = 20
-
-[[main]]
-  name = "sobre mi"
-  #pageRef = "about"
-  #pageRef = "sobre mi"
-  url = "/about/"
   weight = 30
+
 
 [[main]]
   identifier = "search"
@@ -41,7 +42,6 @@
 [[main]]
   identifier = "locale"
   weight = 100
-  
   [main.params]
     action = "locale"
 
