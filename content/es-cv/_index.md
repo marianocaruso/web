@@ -5,11 +5,13 @@ description: "Descarga mi CV en formato PDF"
 showReadingTime: false
 ---
 
-Puedes descargarlo en formato PDF justo [acá](cv/es-cv.pdf) o visualizarlo directamente: 
+Puedes visualizarlo o {{< button href="/cv/es-cv.pdf" target="_self" >}}
+descargarlo
+{{< /button >}} en formato PDF
 
 <iframe src="/cv/es-cv.pdf" style="width:100%; height:600px;" frameborder="0"></iframe>
 
-
 ---
 
+{{< profile align="center" >}}
 

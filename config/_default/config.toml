@@ -11,6 +11,19 @@ enableRobotsTXT = true
 paginate = 10
 summaryLength = 0
 
+
+
+[languages]
+
+  [languages.es]
+  languageName = "Español"
+  weight = 1
+
+  [languages.en]
+  languageName = "English"
+  weight = 2
+
+
 [pagination]
   pagerSize = 10
 

@@ -5,27 +5,20 @@
     <link>http://localhost:1313/</link>
     <description>Recent content on Mariano Caruso</description>
     <generator>Hugo</generator>
-    <language>ES</language>
+    <language>es</language>
     <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>first blog</title>
-      <link>http://localhost:1313/blog/not-usedb1/</link>
+      <title>nota 2</title>
+      <link>http://localhost:1313/notas/n2/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/not-usedb1/</guid>
+      <guid>http://localhost:1313/notas/n2/</guid>
       <description></description>
     </item>
     <item>
-      <title>Primer acto...</title>
-      <link>http://localhost:1313/projects/1/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sobre R2</title>
+      <title>nota 1</title>
       <link>http://localhost:1313/notas/n1/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notas/n1/</guid>
       <description></description>
     </item>
