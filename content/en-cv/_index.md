@@ -1,5 +1,5 @@
 ---
-title: "Currículum Vitae"
+title: "Curriculum Vitae"
 date: 2025-01-15
 description: "Download my CV in PDF format"
 showReadingTime: false
