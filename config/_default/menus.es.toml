@@ -13,23 +13,20 @@
 
 [[main]]
   name = "sobre mi"
-  #pageRef = "about"
-  #pageRef = "sobre mi"
+  pageRef = "sobre mi"
   url = "/sobre_mi/"
   weight = 10
+
 [[main]]
   name = "cuaderno"
-  #pageRef = "posts"
-  #pageRef = "notas"
+  pageRef = "notas"
   url = "/notas/"
   weight = 20
 
-
-
 [[main]]
   name = "cv"
-  #pageRef = "cv-en"
-  pageRef = "cv-es"
+  pageRef = "cv-en"
+  url = "/es-cv/"
   weight = 30
 
 
@@ -42,8 +39,8 @@
 [[main]]
   identifier = "locale"
   weight = 100
-  [main.params]
-    action = "locale"
+ # [main.params]
+ #  action = "locale"
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

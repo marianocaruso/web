@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Mariano Caruso</title>
     <link>https://marianocaruso.github.io/</link>
-    <description>Recent content on </description>
+    <description>Recent content on Mariano Caruso</description>
     <generator>Hugo</generator>
     <language>ES</language>
     <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://marianocaruso.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Currículum Vitae</title>
+      <link>https://marianocaruso.github.io/en-cv/en-cv/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://marianocaruso.github.io/en-cv/en-cv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Currículum Vitae</title>
+      <link>https://marianocaruso.github.io/es-cv/es-cv/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://marianocaruso.github.io/es-cv/es-cv/</guid>
+      <description></description>
+    </item>
     <item>
       <title>first blog</title>
       <link>https://marianocaruso.github.io/blog/not-usedb1/</link>

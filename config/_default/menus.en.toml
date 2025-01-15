@@ -16,19 +16,20 @@
 
 [[main]]
   name = "about"
-    #pageRef = "about"
+  #pageRef = "about"
   url = "/about/"
   weight = 10
 
-  [[main]]
- name = "notebook"
-     #pageRef = "posts"
- url = "/notas/"
- weight = 20
+[[main]]
+   name = "notebook"
+   pageRef = "posts"
+   url = "/notes/"
+   weight = 20
+ 
 
 [[main]]
   name = "cv"
-  pageRef = "cv-en"
+  url ="/en-cv/"
   weight = 30
 
 [[main]]
@@ -40,8 +41,9 @@
 [[main]]
   identifier = "locale"
   weight = 100
-  [main.params]
-    action = "locale"
+
+# [main.params]
+#  action = "locale"
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
