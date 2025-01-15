@@ -1090,8 +1090,8 @@ body button {
 /* Scale SVG icons to text size */
 
 .icon svg {
-  height: 1.5em;
-  width: 1.5em;
+  height: 1em;
+  width: 1em;
 }
 
 /* Search */

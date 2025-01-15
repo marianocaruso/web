@@ -6,16 +6,16 @@
   
     
       <url>
-            <loc>http://localhost:1313/en/</loc>
+            <loc>https://marianocaruso.github.io/en/</loc>
             <xhtml:link
               rel="alternate"
               hreflang="es"
-              href="http://localhost:1313/"
+              href="https://marianocaruso.github.io/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:1313/en/"
+              href="https://marianocaruso.github.io/en/"
               />
           </url>
     

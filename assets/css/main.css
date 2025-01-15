@@ -10,7 +10,7 @@ body button {
 
 /* Scale SVG icons to text size */
 .icon svg {
-  @apply h-[1.5em] w-[1.5em];
+  @apply h-[1.1em] w-[1.1em];
 }
 
 /* Search */
