@@ -6,3 +6,7 @@ description: "Información sobre mí."
 
 
 bla bla bla
+
+---
+
+{{< profile align="center" >}}
