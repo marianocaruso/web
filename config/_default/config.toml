@@ -6,8 +6,6 @@ baseURL = "https://marianocaruso.github.io/"
 theme = "congo"
 defaultContentLanguage = "es"
 
-publishDir = "docs"
-
 enableRobotsTXT = true
 summaryLength = 0
 
