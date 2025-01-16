@@ -5,7 +5,7 @@ description: "Download my CV in PDF format"
 showReadingTime: false
 ---
 
-You can view it or {{< button href="/cv/en-cv.pdf" target="_self" >}}
+You can view it or {{< button href="/cv/en-cv.pdf" target="_blank" >}}
 download
 {{< /button >}} in PDF format
 

@@ -5,7 +5,7 @@ description: "Descarga mi CV en formato PDF"
 showReadingTime: false
 ---
 
-Puedes visualizarlo o {{< button href="/cv/es-cv.pdf" target="_self" >}}
+Puedes visualizarlo o {{< button href="/cv/es-cv.pdf" target="_blank" >}}
 descargarlo
 {{< /button >}} en formato PDF
 
