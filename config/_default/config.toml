@@ -7,21 +7,10 @@ theme = "congo"
 title = "Mariano Caruso" # título que aparece en las pestañas del navegador 
 defaultContentLanguage = "es"
 
+
 enableRobotsTXT = true
 paginate = 10
 summaryLength = 0
-
-
-
-[languages]
-
-  [languages.es]
-  languageName = "Español"
-  weight = 1
-
-  [languages.en]
-  languageName = "English"
-  weight = 2
 
 
 [pagination]
@@ -30,7 +19,7 @@ summaryLength = 0
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-
+## opcional es un intento por que use delimitadores para LaTeX distintos a \\( ...\\).
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
