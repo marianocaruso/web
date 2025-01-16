@@ -4,8 +4,25 @@
   
     
       <url>
+            <loc>http://localhost:1313/en/about/</loc>
+            <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="http://localhost:1313/about/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/en/about/"
+              />
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/en/</loc>
-            <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+            <lastmod>2025-01-15T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="es"
@@ -21,34 +38,34 @@
   
     
       <url>
-            <loc>http://localhost:1313/en/notas/n1/</loc>
+            <loc>http://localhost:1313/en/blog/</loc>
             <lastmod>2025-01-01T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="es"
-              href="http://localhost:1313/notas/n1/"
+              href="http://localhost:1313/blog/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:1313/en/notas/n1/"
+              href="http://localhost:1313/en/blog/"
               />
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/en/notas/</loc>
+            <loc>http://localhost:1313/en/blog/n1/</loc>
             <lastmod>2025-01-01T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="es"
-              href="http://localhost:1313/notas/"
+              href="http://localhost:1313/blog/n1/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:1313/en/notas/"
+              href="http://localhost:1313/en/blog/n1/"
               />
           </url>
     

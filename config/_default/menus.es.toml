@@ -14,13 +14,13 @@
 [[main]]
   name = "acerca"
   pageRef = "acerca"
-  url = "/sobre/"
+  url = "/about/"
   weight = 10
 
 [[main]]
   name = "notas"
   pageRef = "notas"
-  url = "/notas/"
+  url = "/blog/"
   weight = 20
 
 [[main]]

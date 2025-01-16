@@ -16,14 +16,14 @@
 
 [[main]]
   name = "about"
-  #pageRef = "about"
+  pageRef = "about"
   url = "/about/"
   weight = 10
 
 [[main]]
    name = "notes"
    pageRef = "notes"
-   url = "/notes/"
+   url = "/blog/"
    weight = 20
  
 
