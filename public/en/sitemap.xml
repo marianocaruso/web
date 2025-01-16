@@ -21,6 +21,23 @@
   
     
       <url>
+            <loc>http://localhost:1313/en/cv/</loc>
+            <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="http://localhost:1313/cv/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/en/cv/"
+              />
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/en/</loc>
             <lastmod>2025-01-15T00:00:00+00:00</lastmod>
             <xhtml:link
@@ -38,23 +55,6 @@
   
     
       <url>
-            <loc>http://localhost:1313/en/blog/</loc>
-            <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-            <xhtml:link
-              rel="alternate"
-              hreflang="es"
-              href="http://localhost:1313/blog/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="http://localhost:1313/en/blog/"
-              />
-          </url>
-    
-  
-    
-      <url>
             <loc>http://localhost:1313/en/blog/n1/</loc>
             <lastmod>2025-01-01T00:00:00+00:00</lastmod>
             <xhtml:link
@@ -66,6 +66,23 @@
               rel="alternate"
               hreflang="en"
               href="http://localhost:1313/en/blog/n1/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/en/blog/</loc>
+            <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="http://localhost:1313/blog/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/en/blog/"
               />
           </url>
     

@@ -30,7 +30,7 @@
 [[main]]
   name = "cv"
   pageRef = "en-cv"
-  url ="/en-cv/"
+  url ="/cv/"
   weight = 30
 
 [[main]]
