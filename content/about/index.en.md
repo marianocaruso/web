@@ -3,6 +3,7 @@ title: "About me"
 date: 2025-01-15
 description: "Information about me"
 showReadingTime: false
+showDate: false
 ---
 
 
