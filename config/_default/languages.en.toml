@@ -4,7 +4,7 @@ languageDirection = "ltr"
 weight = 1
 
 title = "Mariano Caruso"
-# copyright = "Copy, _right?_ :thinking_face:"
+copyright = "© Mariano Caruso<br>All rights reserved"
 
 [params]
   dateFormat = "2 January 2006"
