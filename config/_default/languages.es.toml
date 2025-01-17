@@ -4,7 +4,7 @@ languageDirection = "ltr"
 weight = 1
 
 #title = "Mariano Caruso"
-copyright = "© Mariano Caruso<br>Todos los derechos reservados"
+copyright = "© Mariano Caruso"
 
 [params]
   dateFormat = "2 Enero 2006"
