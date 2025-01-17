@@ -16,8 +16,13 @@ showDate: false
 
 ## título 2
 
-
+[esto coloca un reproductor de muestras de spotify dado el id de la carpeta de spotify]:# 
 {{< spotify type="album" id="5iT3F2EhjVQVrO4PKhsP8c?" width="100%" height="160" >}}
+
+[3 tipos de imagen https://jpanther.github.io/congo/docs/getting-started/#feature-cover-and-thumbnail-images ]:# 
+[feature: coloca afuera y adentro esa imagen]:# 
+[thumb coloca afuera esa imagen]:# 
+[cover coloca adentro esa imagen]:# 
 
 
 
