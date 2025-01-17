@@ -3,9 +3,10 @@
 title: "nota 2" # va al índice de notas
 date: 2025-01-02
 description: "nota 2"
-draft: false # true="no se muestra en la web"
+draft: true # true="no se muestra en la web"
+
 showReadingTime: false
-# showDate: false
+showDate: false
 
 ---
 

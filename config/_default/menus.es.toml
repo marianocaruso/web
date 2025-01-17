@@ -13,22 +13,23 @@
 
 [[main]]
   name = "acerca"
-  pageRef = "acerca"
-  url = "/about/"
+  pageRef = "about"
+  #url = "/about/"
   weight = 10
 
 [[main]]
   name = "notas"
-  pageRef = "notas"
-  url = "/blog/"
+  pageRef = "notes"
+  #url = "/blog/" 
   weight = 20
 
 [[main]]
   name = "cv"
-  pageRef = "es-cv"
-  url = "/cv/"
+  pageRef = "cv"
+  #url = "/cv/"
   weight = 30
 
+########
 
 [[main]]
   identifier = "search"

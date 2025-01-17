@@ -1,10 +1,11 @@
 ---
+
 title: "nota 1" # va al índice de notas
 date: 2025-01-01
 description: "nota 1" 
 showReadingTime: false
 draft: false
-# showDate: false
+showDate: false
 
 ---
 

@@ -12,26 +12,30 @@
 
 
 
-
-
+   
 [[main]]
   name = "about"
   pageRef = "about"
-  url = "/about/"
+  #url = "/about/"
+  #especifica una URL a la que apunta el elemento del menú, 
+  #no necesariamente corresponde a una página generada por Hugo 
   weight = 10
 
-[[main]]
-   name = "notes"
-   pageRef = "notes"
-   url = "/blog/"
-   weight = 20
+# descomentar el menú de blog en inglés, pero no el de url
+#[[main]]
+ # name = "notes"
+ # pageRef = "notes"
+        #url = "/blog/" 
+ # weight = 20
  
 
 [[main]]
   name = "cv"
-  pageRef = "en-cv"
-  url ="/cv/"
+  pageRef = "cv"
+  #url = "/cv/"
   weight = 30
+
+############
 
 [[main]]
   identifier = "search"

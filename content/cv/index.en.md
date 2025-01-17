@@ -1,8 +1,11 @@
 ---
+
 title: "Curriculum Vitae"
 date: 2025-01-15
 description: "Download my CV in PDF format"
 showReadingTime: false
+showDate: false
+
 ---
 
 You can view it or {{< button href="/cv/en-cv.pdf" target="_blank" >}}

@@ -1,9 +1,10 @@
-
 ---
+
 title: "Currículum Vitae"
 date: 2025-01-15
 description: "Descarga mi CV en formato PDF"
 showReadingTime: false
+showDate: false
 ---
 
 Puedes visualizarlo o {{< button href="/cv/es-cv.pdf" target="_blank" >}}
