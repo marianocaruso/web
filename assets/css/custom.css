@@ -333,13 +333,14 @@ html {
   font-size: 14pt;
 }
 
+
+
 /*agrega justificación al texto*/
 .prose p {
   text-align: justify;
 }
 
 /*agrega salto de línea al texto*/
-
 
 .prose p {
   hyphens: auto;
