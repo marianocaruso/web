@@ -36,12 +36,11 @@
   weight = 99
   [main.params]
     action = "search"
-
-#[[main]]
- # identifier = "locale"
-  #weight = 100
-   #[main.params]
-    #action = "locale"
+[[main]]
+  identifier = "locale"
+  weight = 100
+  [main.params]
+  action = "locale"
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
@@ -51,8 +50,10 @@
 #  name = "Tags"
 #   pageRef = "tags"
 #   weight = 10
-[[footer]]
-identifier = "locale"
-  weight = 100
-   [footer.params]
-    action = "locale"  
+
+#[[footer]]
+#identifier = "locale"
+ # weight = 100
+  # [footer.params]
+   # action = "locale"  
+ 
