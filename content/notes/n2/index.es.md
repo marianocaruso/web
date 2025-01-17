@@ -3,7 +3,7 @@
 title: "nota 2" # va al índice de notas
 date: 2025-01-02
 description: "nota 2"
-draft: true # true="no se muestra en la web"
+draft: false # true="no se muestra en la web"
 
 showReadingTime: false
 showDate: false
@@ -12,7 +12,14 @@ showDate: false
 
 {{< katex >}}
 
+
+
 ## título 2
+
+
+{{< spotify type="album" id="5iT3F2EhjVQVrO4PKhsP8c?" width="100%" height="160" >}}
+
+
 
 Lorem ipsum dolor sit amet consectetur adipiscing elit, dui at phasellus sed ornare nec tristique, tincidunt cursus fames egestas arcu porttitor. Ligula penatibus tempor tincidunt libero pellentesque ante egestas conubia, sociosqu suspendisse convallis eleifend placerat velit vel porta volutpat, senectus bibendum curabitur rhoncus ultrices auctor mauris. Hac odio aliquam himenaeos sapien vitae taciti egestas tempus sagittis imperdiet condimentum, euismod dictumst auctor leo metus consequat hendrerit pellentesque sociosqu feugiat.
 
