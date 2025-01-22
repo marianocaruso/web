@@ -4,7 +4,7 @@
 
 baseURL = "https://marianocaruso.github.io/"
 theme = "congo"
-title = "Mariano Caruso" # título que aparece en las pestañas del navegador 
+title = "MC" # título que aparece en las pestañas del navegador 
 defaultContentLanguage = "es"
 
 
@@ -24,9 +24,14 @@ summaryLength = 0
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-    [markup.goldmark.extensions]
-      typographer = false
-  [markup.goldmark.extensions.mathjax]
-    enable = true
-    delimiters = ["$", "$"]
-    blockDelimiters = ["$$", "$$"]
+
+
+
+ 
+#    [markup.goldmark.extensions]
+#     typographer = false
+#[markup.goldmark.extensions.mathjax]
+# enable = true
+#delimiters = ["$", "$"]
+#blockDelimiters = ["$$", "$$"]
+    

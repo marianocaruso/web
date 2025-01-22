@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Mariano Caruso</title>
+    <title>Categories on MC</title>
     <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on Mariano Caruso</description>
+    <description>Recent content in Categories on MC</description>
     <generator>Hugo</generator>
     <language>es</language>
     <copyright>© Mariano Caruso</copyright>

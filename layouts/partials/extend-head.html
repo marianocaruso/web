@@ -1,0 +1,40 @@
+{{ if $.Params.math }}
+  {{$katexCSS := resources.Get "lib/katex/katex.min.css"}}
+  {{$katexCSS := $katexCSS | resources.Fingerprint "sha512"}}
+  <link type="text/css" rel="stylesheet" href="{{$katexCSS.RelPermalink}}" integrity="{{$katexCSS.Data.Integrity}}">
+  {{$katexJS := resources.Get "lib/katex/katex.min.js"}}
+  {{$katexJS := $katexJS | resources.Fingerprint "sha512"}}
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css">
+
+  <script defer src="{{$katexJS.RelPermalink}}" integrity="{{$katexJS.Data.Integrity}}"></script>
+  {{$katexRenderJS := resources.Get "lib/katex/auto-render.min.js"}}
+  {{$katexRenderJS := $katexRenderJS | resources.Fingerprint "sha512"}}
+  <script defer src="{{$katexRenderJS.RelPermalink}}" integrity="{{$katexRenderJS.Data.Integrity}}"></script>
+  {{$katexFonts := resources.Match "lib/katex/fonts/*"}}
+  {{ range $katexFonts }}
+    <!-- {{ .RelPermalink }} -->
+  {{ end }}
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      for (const p of document.querySelectorAll("p")) {
+        if (/\$\$.*\$\$/g.test(p.innerText) && p.hasChildNodes()) {
+          for (const child of p.children) {
+            if (child.tagName === "EM") {
+              const textNode = document.createTextNode(`_${child.innerText}_`);
+              p.replaceChild(textNode, child);
+            }
+          }
+        }
+      }
+      renderMathInElement(document.body, {
+        delimiters: [
+          { left: "$$", right: "$$", display: true },
+          { left: "$", right: "$", display: false },
+        ],
+        preProcess: math => math.replaceAll(" \\\n", " \\\\\n"),
+        throwOnError: false
+      });
+    });
+  </script>
+{{ end }}

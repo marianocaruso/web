@@ -8,9 +8,7 @@ showDate: false
 
 ---
 
-You can view it or {{< button href="/cv/en-cv.pdf" target="_blank" >}}
-download
-{{< /button >}} in PDF format
+You can view it or {{< button href="/cv/en-cv.pdf" target="_blank" >}}download{{< /button >}}  in PDF format
 
 <iframe src="/cv/en-cv.pdf" style="width:100%; height:600px;" frameborder="0"></iframe>
 

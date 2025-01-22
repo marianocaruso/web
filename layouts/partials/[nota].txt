@@ -1,0 +1,1 @@
+borrar extend-head.html para NO implementar lo que se indica en https://applegamer22.github.io/posts/hugo/#katex
