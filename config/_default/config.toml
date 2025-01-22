@@ -4,7 +4,7 @@
 
 baseURL = "https://marianocaruso.github.io/"
 theme = "congo"
-title = "MC" # título que aparece en las pestañas del navegador 
+title = "Mariano Caruso" # título que aparece en las pestañas del navegador 
 defaultContentLanguage = "es"
 
 
