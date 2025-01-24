@@ -6,6 +6,8 @@ baseURL = "https://marianocaruso.github.io/"
 theme = "congo"
 title = "Mariano Caruso" # título que aparece en las pestañas del navegador 
 defaultContentLanguage = "es"
+description = "Research & Development"
+
 
 
 enableRobotsTXT = true
@@ -20,10 +22,10 @@ summaryLength = 0
   home = ["HTML", "RSS", "JSON"]
 
 ## opcional es un intento por que use delimitadores para LaTeX distintos a \\( ...\\).
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+#[markup]
+ # [markup.goldmark]
+  #  [markup.goldmark.renderer]
+   #   unsafe = true
 
 
 
