@@ -20,6 +20,9 @@ enableImageWebp = true
 # robots = ""
 fingerprintAlgorithm = "sha256"
 
+description = "Research & Development"
+logo = "img/logoc.png"
+
 
 [header]
   layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
