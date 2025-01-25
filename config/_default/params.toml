@@ -84,7 +84,7 @@ fingerprintAlgorithm = "sha256"
 #  region = "eu"  # can be either "eu" or "us"
 
 [verification]
-  # google = "google8c0a06734a31ad2d.html"
+  google = "SYbm-03Dwh4PbppJZdMEszrv-x0p59MhJ5XRzun7_o8"
   # bing = ""
   # pinterest = ""
   # yandex = ""

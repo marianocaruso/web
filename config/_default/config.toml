@@ -6,8 +6,10 @@ baseURL = "https://marianocaruso.github.io/"
 theme = "congo"
 title = "Mariano Caruso" # título que aparece en las pestañas del navegador 
 defaultContentLanguage = "es"
-description = "Research & Development"
 
+[params]
+  description = "Research & Development"
+  logo = "img/logoc.png"
 
 
 enableRobotsTXT = true
