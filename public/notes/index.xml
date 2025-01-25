@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notas on Mariano Caruso</title>
-    <link>http://localhost:1313/notes/</link>
+    <link>https://marianocaruso.github.io/notes/</link>
     <description>Recent content in Notas on Mariano Caruso</description>
     <generator>Hugo</generator>
     <language>es</language>
     <copyright>© Mariano Caruso</copyright>
     <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marianocaruso.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>nota 2</title>
-      <link>http://localhost:1313/notes/n2/</link>
+      <link>https://marianocaruso.github.io/notes/n2/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/n2/</guid>
+      <guid>https://marianocaruso.github.io/notes/n2/</guid>
       <description></description>
     </item>
     <item>
       <title>nota1</title>
-      <link>http://localhost:1313/notes/n1/</link>
+      <link>https://marianocaruso.github.io/notes/n1/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/n1/</guid>
+      <guid>https://marianocaruso.github.io/notes/n1/</guid>
       <description></description>
     </item>
   </channel>
