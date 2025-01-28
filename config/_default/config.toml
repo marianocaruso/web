@@ -9,7 +9,7 @@ defaultContentLanguage = "es"
 
 [params]
   description = "Research & Development"
-  logo = "img/logoc.png"
+  #logo = "img/logoc.png"
 
 
 enableRobotsTXT = true
@@ -23,15 +23,13 @@ summaryLength = 0
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+
 ## opcional es un intento por que use delimitadores para LaTeX distintos a \\( ...\\).
 #[markup]
  # [markup.goldmark]
   #  [markup.goldmark.renderer]
    #   unsafe = true
 
-
-
- 
 #    [markup.goldmark.extensions]
 #     typographer = false
 #[markup.goldmark.extensions.mathjax]

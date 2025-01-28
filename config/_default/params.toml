@@ -20,8 +20,9 @@ enableImageWebp = true
 # robots = ""
 fingerprintAlgorithm = "sha256"
 
+# estas dos lineas están también en el config.toml
 description = "Research & Development"
-logo = "img/logoc.png"
+# logo = "img/logoc.png" # cuando ejecuto HUGO, esta linea me dió un warning, se puede eliminar
 
 
 [header]
