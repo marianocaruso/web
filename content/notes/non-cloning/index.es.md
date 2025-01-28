@@ -13,7 +13,7 @@ math:  true
 {{< katex >}}
 
 
-Dado un espacio de Hilbert $\mathscr{H}$, se pretender encontrar un operador  $U:\mathscr{H}\otimes \mathscr{H}\longrightarrow\mathscr{H}$ de manera que un vector susceptible de ser  **copiado** $|\varphi\rangle\in\mathscr{H}$ y un vector  de **soporte**  $|s\rangle\in\mathscr{H}$, (ambos vectores son de norma 1) se tenga 
+Dado un espacio de Hilbert $\mathscr{H}$, se pretende encontrar un operador  $U:\mathscr{H}\otimes \mathscr{H}\longrightarrow\mathscr{H}$ de manera que un vector susceptible de ser  **copiado** $|\varphi\rangle\in\mathscr{H}$ y un vector  de **soporte**  $|s\rangle\in\mathscr{H}$, (ambos vectores son de norma 1) se tenga 
 
 > ##### operador de copiado
 > $$
