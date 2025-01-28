@@ -23,7 +23,7 @@ fingerprintAlgorithm = "sha256"
 # estas dos lineas están también en el config.toml
 description = "Research & Development"
 # logo = "img/logoc.png" # cuando ejecuto HUGO, esta linea me dió un warning, se puede eliminar
-
+# WARN  [CONGO] Theme parameter `logo` has been renamed to `header.logo`. Please update your site configuration.
 
 [header]
   layout = "hybrid" # valid options: basic, hamburger, hybrid, custom

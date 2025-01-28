@@ -7,19 +7,22 @@ html {
 
 
 /*agrega justificación al texto*/
+/*
 .prose p {
   text-align: justify;
 }
+*/
 
 /*agrega salto de línea al texto*/
 
+/*
 .prose p {
   hyphens: auto;
   -webkit-hyphens: auto;
   -ms-hyphens: auto;
   word-wrap: break-word;
 }
-
+*/
 
 /*todo lo que está abajo es una copia del main.css, hugo toma como prioritario lo que está acá abajo*/
 

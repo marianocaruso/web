@@ -9,7 +9,9 @@ defaultContentLanguage = "es"
 
 [params]
   description = "Research & Development"
-  #logo = "img/logoc.png"
+  #logo = "img/logoc.png" # cuando ejecuto HUGO, esta linea me dió un warning, se puede eliminar
+  # WARN  [CONGO] Theme parameter `logo` has been renamed to `header.logo`. Please update your site configuration.
+
 
 
 enableRobotsTXT = true
