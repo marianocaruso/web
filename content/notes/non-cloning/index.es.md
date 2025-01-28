@@ -2,7 +2,7 @@
 
 title: "Teorema de no clonado" # va al índice de notas
 date: 2025-01-01
-description: "non-clonning theorem" 
+description: "non-cloning theorem" 
 showReadingTime: false
 draft: false
 showDate: false
